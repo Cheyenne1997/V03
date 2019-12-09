@@ -1006,6 +1006,21 @@ section.lazy-placeholder:after {
 .cid-rJcKvqNWqC H5 {
   color: #767676;
 }
+.cid-rKaL2AQ3kK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #efefef, #efefef);
+}
+.cid-rKaL2AQ3kK .mbr-iconfont-social {
+  font-size: 32px;
+  color: #77b4a6;
+}
+.cid-rKaL2AQ3kK .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rKaL2AQ3kK H2 {
+  text-align: center;
+}
 .cid-rJcKf7LeUw {
   padding-top: 45px;
   padding-bottom: 45px;
